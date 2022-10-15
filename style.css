@@ -57,6 +57,7 @@ nav img{
 }
 .text-box h1{
     font-size: 62px;
+    font-family: 'Times New Roman', Times, serif;
 }
 .text-box p{
     margin: 10px 0 40px;
@@ -124,6 +125,7 @@ nav .bi{
 h1{
     font-size: 36px;
     font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
 }
 p{
     color: #777;
@@ -275,6 +277,7 @@ h3{
 @media(max-width: 700px){
     .cts h1{
         font-size: 20px;
+        font-family: 'Times New Roman', Times, serif;
     }
 }
 /*------footet-----*/
@@ -302,6 +305,7 @@ h3{
     margin-top: 100px;
     color: #fff;
     text-align: center;
+    font-family: 'Times New Roman', Times, serif;
 }
 .about-us{
     width: 80%;
